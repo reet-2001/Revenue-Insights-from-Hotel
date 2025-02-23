@@ -2,7 +2,7 @@
 
 # Revenue Insights of a Hotel Chain
 
-### Dashboard Link :https://app.powerbi.com/groups/me/reports/be5ffdcd-b876-4a43-a8ed-fb04b78ad7daReportSectionce2063a216d8e001051e?experience=power-bi
+### Dashboard Link :https://drive.google.com/drive/folders/1pGkvVIdL39AzP68ECEv49BLgwKJg_r_M?usp=sharing
 
 ## Problem Statement
 
